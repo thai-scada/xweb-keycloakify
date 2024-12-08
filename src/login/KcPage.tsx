@@ -1,3 +1,4 @@
+import "./main.css";
 import "./login.css";
 import { Suspense, lazy } from "react";
 import type { ClassKey } from "keycloakify/login";
